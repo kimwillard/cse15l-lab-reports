@@ -1,4 +1,4 @@
-**The absolute path to the working directory was 'home/lecture1' beefore each command was run.
+**The absolute path to the working directory was 'home/lecture1' before each command was run.
 ## CHANGE DIRECTORY EXAMPLES ('cd')- changes the current directory to the directory listed in the argument.
 ![cd_nocommands](IMG_3411.png)
 With no argument, cd returns back to the home directory. This is because we did not provide a directory to change to.
