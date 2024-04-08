@@ -1,4 +1,12 @@
 ![cd_nocommands](IMG_3411.png)
+![cd_nocommands](IMG_3412.png)
+![cd_nocommands](IMG_3413.png)
+![cd_nocommands](IMG_3414.png)
+![cd_nocommands](IMG_3415.png)
+![cd_nocommands](IMG_3416.png)
+![cd_nocommands](IMG_3417.png)
+![cd_nocommands](IMG_3418.png)
+![cd_nocommands](IMG_3419.png)
 For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 
 Share an example of using the command with no arguments.
