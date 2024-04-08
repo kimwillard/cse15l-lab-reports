@@ -1,12 +1,12 @@
 ![cd_nocommands](IMG_3411.png)
-![cd_nocommands](IMG_3412.png)
-![cd_nocommands](IMG_3413.png)
-![cd_nocommands](IMG_3414.png)
-![cd_nocommands](IMG_3415.png)
-![cd_nocommands](IMG_3416.png)
-![cd_nocommands](IMG_3417.png)
-![cd_nocommands](IMG_3418.png)
-![cd_nocommands](IMG_3419.png)
+![cd_directory](IMG_3412.png)
+![cd_file](IMG_3413.png)
+![ls_nocommands](IMG_3414.png)
+![ls_directory](IMG_3415.png)
+![ls_file](IMG_3416.png)
+![cat_nocommands](IMG_3417.png)
+![cat_directory](IMG_3418.png)
+![cat_file](IMG_3419.png)
 For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 
 Share an example of using the command with no arguments.
