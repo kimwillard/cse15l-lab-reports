@@ -1,7 +1,7 @@
 **The absolute path to the working directory was 'home/lecture1' before each command was run.
 ## CHANGE DIRECTORY EXAMPLES ('cd')- changes the current directory to the directory listed in the argument.
 ![cd_nocommands](IMG_3411.png)
-With no argument, cd returns back to the home directory. This is because we did not provide a directory to change to.
+With no argument, 'cd' returns back to the home directory. This is because we did not provide a directory to change to.
 ![cd_directory](IMG_3412.png)
 Using the path 'messages' as the argument, terminal changes the directory to the path leading to 'messages'.
 ![cd_file](IMG_3413.png)
