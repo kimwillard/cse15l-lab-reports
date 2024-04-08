@@ -5,7 +5,7 @@ With no argument, `cd` returns back to the home directory. This is because we di
 ![cd_directory](IMG_3412.png)
 Using the path `messages` as the argument, terminal changes the directory to the path leading to `messages`.
 ![cd_file](IMG_3413.png)
-This is an *error* because cd can only change the directory. It does not have access to files.
+This is an *error* because `cd` can only change the directory. It does not have access to files.
 
 ## LIST EXAMPLES (`ls`)- shows the files/folders contained in the currrent path
 ![ls_nocommands](IMG_3414.png)
