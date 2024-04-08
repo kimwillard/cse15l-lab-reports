@@ -1,21 +1,24 @@
+**The absolute path to the working directory was 'home/lecture1' beefore each command was run.
+## CHANGE DIRECTORY EXAMPLES ('cd')- changes the current directory to the directory listed in the argument.
 ![cd_nocommands](IMG_3411.png)
+With no argument, cd returns back to the home directory. This is because we did not provide a directory to change to.
 ![cd_directory](IMG_3412.png)
+Using the path 'messages' as the argument, terminal changes the directory to the path leading to 'messages'.
 ![cd_file](IMG_3413.png)
+This is an *error* because cd can only change the directory. It does not have access to files.
+
+## LIST EXAMPLES ('ls')- shows the files/folders contained in the currrent path
 ![ls_nocommands](IMG_3414.png)
+With no argument, terminal shows all of the contents of the current directory, which is 'lecture1'. This includes 'Hello.class', 'Hello.java', 'README', and 'messages'.
 ![ls_directory](IMG_3415.png)
+Using 'messages' as the directory for the argument, terminal prints all of the files held within 'messages'.
 ![ls_file](IMG_3416.png)
+Using the file 'es-mx.txt' as the argument returns the name of the file back as it does not contain any more files or folders.
+
+## CONCATENATE EXAMPLES ('cat')- prints contents of file
 ![cat_nocommands](IMG_3417.png)
+With no argument, there is no return because there is nothing for terminal to print.
 ![cat_directory](IMG_3418.png)
+There is an *error* because concatenate prints the contents of files, but a directory is not a file.
 ![cat_file](IMG_3419.png)
-For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
-
-Share an example of using the command with no arguments.
-Share an example of using the command with a path to a directory as an argument.
-Share an example of using the command with a path to a file as an argument.
-So that's 9 total examples (3 for each command). For each of the 9 examples, include:
-
-A screenshot or Markdown code block showing the command and its output.
-What the absolute path to the working directory was when the command was run.
-A sentence or two explaining why you got that output (e.g. what was in the filesystem, what it meant to have no arguments).
-Indicate explicitly whether the output is an error or not, and if it's an error, explain why it's an error in one or two sentences. Note: Make sure to use backticks ` around keywords such as commands, file names, paths, etc. to make them show up as code like cd.
-You will upload your submission by publishing the page on Github Pages, then printing the page to PDF and uploading to the Lab Report 1 assignment on Gradescope.
+When using 'es-mx.txt' as the argument, terminal prints the contents of the file which is "Hola Mundo!"
