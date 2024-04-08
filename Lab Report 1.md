@@ -1,3 +1,4 @@
+![Image](IMG_3411.png)
 For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 
 Share an example of using the command with no arguments.
