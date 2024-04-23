@@ -18,6 +18,8 @@ Using the file `es-mx.txt` as the argument returns the name of the file back as 
 ## CONCATENATE EXAMPLES (`cat`)- prints contents of file
 ![cat_nocommands](IMG_3417.png)
 With no argument, there is no return because there is nothing for terminal to print. This is not an error.
+![cat_nocommands_withText](IMG_3636.png)
+When I type while cat is running, if I press enter it copies exactly what I typed. This is because the purpose of cat is to print the content of whatever files you use as an argument-- or in this case, just the text provided.
 ![cat_directory](IMG_3418.png)
 There is an *error* because concatenate prints the contents of files, but a directory is not a file.
 ![cat_file](IMG_3419.png)
