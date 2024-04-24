@@ -49,8 +49,13 @@
 
 ***
 # Part 2
+**public key**
 ![public key](IMG_3658.jpeg)
+The absolute path is /Users/kimwillard/.ssh/id_rsa.pub
+**private key**
 ![private key](IMG_3659.jpeg)
+The absolute path from the ieng6 machine is home/id_rsa
+![log in](IMG_3661.png)
 
 ***
 # Part 3
