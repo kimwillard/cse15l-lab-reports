@@ -49,6 +49,8 @@
 
 ***
 # Part 2
+![public key](IMG_3658.jpeg)
+![private key](IMG_3659.jpeg)
 
 ***
 # Part 3
