@@ -50,11 +50,11 @@
 ***
 # Part 2
 ## **public key**
-![public key](IMG_3658.jpeg)
-The absolute path is /Users/kimwillard/.ssh/id_rsa.pub
+![public key](IMG_3837.jpeg)
+The absolute path is /home/linux/ieng6/oce/7i/kiwillard/id_rsa.pub
 ## **private key**
-![private key](IMG_3659.jpeg)
-The absolute path from the ieng6 machine is home/id_rsa
+![private key](IMG_3836.jpeg)
+The absolute path is /Users/kimwillard/.ssh/id_rsa
 ## Log in to server without password
 ![log in](IMG_3661.png)
 
